@@ -30,7 +30,7 @@ The following libraries are required to be installed before proceeding to run th
     $ sudo apt-get install ros-noetic-navigation
     $ sudo apt-get install python3-opencv
     $ sudo apt-get install python3-numpy
-    $ sudo apt-get install python3-scikits-learn
+    $ sudo apt-get install install python3-sklearn python3-sklearn-lib
     $ sudo apt-get install ros-noetic-teb-local-planner
     $ sudo apt-get install ros-noetic-multirobot-map-merge
 
