@@ -1,4 +1,4 @@
-# Multirobot Turtlebot3 Simulation Exploration based on RRT for Ubuntu 20.04 ROS Noetic
+# Multirobot Turtlebot3 Simulation Exploration based on RRT for Ubuntu 20.04 ROS Noetic (backup)
 This package is a compilation of the RRT package in a much complete package rather than figuring map merging and other functions from other resipotary. 
 This would serve as a self-contained package for the exploration module using simulation for the turtlebot.
 This is tested on Ubuntu 20.04.03LTS with ROS Noetic.
